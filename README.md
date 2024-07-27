@@ -10,7 +10,7 @@ Equipe:
 - [Vinicius](github.com/aluno2)
 
 Documentos do projeto:
--   [Documentação](https://github.com/JSkahl/casa-feita)[
+-   [Documentação](https://github.com/JSkahl/casa-feita)
 -   Regras de negócio: [Docs](https://docs.google.com/document/d/1vGhWFA5V_HPQhutSttH2wuWxPOsyQUXARjb7Z7L0eNc/edit)
 -   Backend: [Repositório](github.com/JSkahl/casa-feita-backend)
 -   Frontend: [Repositório](gitahub.com/JSkahl/casa-feita-frontend) 
