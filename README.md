@@ -8,7 +8,8 @@ Equipe:
 - [Gustavo](github.com/aluno1)
 - [José](github.com/aluno2)
 - [Vinicius](github.com/aluno2)
-  
+
+Documentos do projeto:
 -   [Documentação (esse documento)](https://github.com/JSkahl/casa-feita)
 -   Backend: [Repositório](github.com/JSkahl/casa-feita-backend)
 -   Frontend: [Repositório](gitahub.com/JSkahl/casa-feita-frontend) 
