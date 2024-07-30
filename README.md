@@ -30,7 +30,9 @@ Para resolver os problemas enfrentados pela Casa Feita, propomos a implementaç�
 Além disso, o sistema automatizará todas as transações de venda, eliminando a necessidade de entrada manual de dados e reduzindo a propensão a erros humanos. Com a implementação de diversas opções de pagamento seguras e populares, a experiência de compra será mais rápida e conveniente para os clientes.
 Com esta solução, nosso cliente poderá se concentrar em estratégias de crescimento e melhoria contínua da experiência do cliente, eliminando ineficiências operacionais e aumentando a satisfação dos consumidores. A Casa Feita estará equipada para enfrentar os desafios do mercado de móveis online de maneira mais eficaz, garantindo seu sucesso contínuo.
 
-# 4. [Modelagem de Dados](https://lucid.app/lucidchart/04b23d06-9af0-4802-a374-77c2715f6eb9/edit?beaconFlowId=42E3264FC3343916&invitationId=inv_106c30a7-1d02-40ce-a495-a9c76bf5eeb8&page=0_0#)
+# 4. Modelagem de Dados
+
+<img src="modelo.png">
 
 <!--
 # 4. Regras de negócio
