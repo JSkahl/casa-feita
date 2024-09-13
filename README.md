@@ -32,7 +32,7 @@ Com esta solução, nosso cliente poderá se concentrar em estratégias de cresc
 
 # 4. Modelagem de Dados
 
-<img src="modelo3.png">
+<img src="modelo3.jpeg">
 
 <!--
 # 4. Regras de negócio
